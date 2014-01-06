@@ -82,6 +82,8 @@ import java.util.Locale;
 
 public class Utils {
 
+    private static final String TAG = "Utils";
+
     /**
      * Set the preference's title to the matching activity's label.
      */
